@@ -12,7 +12,7 @@ https://youtu.be/iyiVLka8Ti8
 ![Page 2 - App Dev UI - Figma 2024-07-26 20-38-28](https://github.com/user-attachments/assets/601e4e2a-3c04-4048-a500-9dac268e389e)
 
 # Members
-[Bien Joshua Macuha](https://github.com/bienjoshuaa)
-[Ervin Rey Capuno](https://github.com/Ervin-Capuno)
-[Karl Phillip Caringal](https://github.com/caringalkarl)
-[Nico Angelo Burog](https://github.com/NicoAngeloBurog)
+- [Bien Joshua Macuha](https://github.com/bienjoshuaa)
+- [Ervin Rey Capuno](https://github.com/Ervin-Capuno)
+- [Karl Phillip Caringal](https://github.com/caringalkarl)
+- [Nico Angelo Burog](https://github.com/NicoAngeloBurog)
