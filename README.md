@@ -4,3 +4,9 @@ Welcome to CozyControl, the ultimate app for seamless home automation. CozyContr
 
 YouTube Link:
 https://youtu.be/iyiVLka8Ti8
+
+# Drawer, Dial, and Cards
+![Page 1 - App Dev UI - Figma 2024-07-26 20-37-58](https://github.com/user-attachments/assets/904f8411-aae3-448c-8f8f-ba5651a10671)
+
+# Bottom Pop-Up Modal and Navigation Bar
+![Page 2 - App Dev UI - Figma 2024-07-26 20-38-28](https://github.com/user-attachments/assets/601e4e2a-3c04-4048-a500-9dac268e389e)
